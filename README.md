@@ -16,10 +16,18 @@ A project designed to automate and secure the NAS Laboratory using an Arduino Un
 ### Hardware:
 - Arduino Mega 2560
 - Arduino Uno R3
+- MFRC522 Scanner
 - 2-Channel Relay Module
 - Wiznet W5100 Ethernet Shield
-- LED Bulbs (for demonstration)
-- Smartphone (for app control)
+- MQ-2 Smoke and Gas Sensor
+- ADXL345 Accelerometer
+- Buzzer
+- DY-HV20T Audio Player
+- 12V Centralized Power Supply
+- 12V to 9V buck converter
+
+- Mini PC
+- Display Monitor
 
 ### Software:
 - Arduino IDE
