@@ -24,6 +24,8 @@ A project designed to automate and secure the NAS Laboratory using an Arduino Un
 ### Software:
 - Arduino IDE
 - Visual Studio
+- Visual Studio Code
+- XAMPP
 - Libraries: `SPI.h`, `Ethernet.h`, `MFRC522.h`, `Keypad.h`, `Wire.h`, `LiquidCrystal_I2C.h`, `DYPlayerArduino.h`, `Adafruit_Sensor.h`, `Adafruit_ADXL345_U.h`
 
 ---
