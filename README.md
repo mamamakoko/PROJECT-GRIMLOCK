@@ -38,110 +38,71 @@ A project designed to automate and secure the NAS Laboratory using an Arduino Un
 
 ---
 
-## Circuit Diagram
-![Circuit Diagram](https://example.com/circuit_diagram.png)
-
-Connect the relay module to the Arduino Uno, ensuring the following:
-- **Relay IN1-IN4** connected to Arduino digital pins (e.g., D2-D5).
-- **VCC and GND** of the relay to 5V and GND on Arduino.
-- ESP8266 connections:
-  - TX -> RX on Arduino (via voltage divider if necessary)
-  - RX -> TX on Arduino
-  - VCC and GND -> 3.3V and GND on Arduino.
-
----
-
 ## Installation
 
 ### 1. Set Up the Arduino IDE
 1. Download and install [Arduino IDE](https://www.arduino.cc/en/software).
 2. Install the required libraries using the Library Manager:
    ```
-   BlynkSimpleEsp8266
-   ESP8266WiFi
+   Ethernet
+   Adafruit Sensor
+   Adafruit ADXL345
+   Keypad
+   LiquidCrystal I2C
+   MFRC522
+   SoftwareWire
    ```
 
 ### 2. Load the Code
 1. Clone this repository or download the code file.
 2. Open the `.ino` file in Arduino IDE.
-3. Update the `WiFi` credentials and `Blynk` authentication token:
+3. The `.ino` file named `GRIMLOCK_v4.1` containes the general code for the door lock. While the `GRIMLOCK_v4.1.1` containes the code for the accelerometer, and smoke sensor.
+4. Update the `IP addresses` in the `GRIMLOCK_v4.1.ino`
    ```cpp
-   char auth[] = "YOUR_BLYNK_TOKEN";
-   char ssid[] = "YOUR_WIFI_SSID";
-   char pass[] = "YOUR_WIFI_PASSWORD";
+   byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };  // Mac address of the Arduino. It needs to be unique to the network.
+   IPAddress ip(192, 168, 1, 179);   // Static IP address of Arduino
+   IPAddress server(192, 168, 1, 103 );    // IP address of the server
    ```
-4. Upload the code to your Arduino Uno.
-
-### 3. Connect to Blynk App
-1. Download the Blynk app from the [App Store](https://apps.apple.com) or [Google Play](https://play.google.com).
-2. Create a new project, and add buttons for each relay channel.
-3. Link the buttons to the correct virtual pins (e.g., V1-V4).
+   And also to the similar snippets below, or you can just click Ctrl+F and search for "Host"
+   ```cpp
+   if (client.connect(server, 80)) {
+     client.print("GET /controller/insert_in_out.php?tag=");
+     client.print(rfidTag);
+     client.println(" HTTP/1.1");
+     client.println("Host:  192.168.1.103");
+     client.println("Connection: close");
+     client.println();
+   }
+   ```
+5. Upload the code to your Arduino Mega.
+6. For the other controller, upload the `GRIMLOCK_v4.1.1`.
 
 ---
 
 ## Usage
 1. Power up the Arduino and connected components.
-2. Open the Blynk app, connect to the project, and control the appliances.
-3. Monitor real-time appliance statuses on the app.
-
----
-
-## Code Snippet
-```cpp
-#define BLYNK_PRINT Serial
-#include <ESP8266WiFi.h>
-#include <BlynkSimpleEsp8266.h>
-
-char auth[] = "YOUR_BLYNK_TOKEN";
-char ssid[] = "YOUR_WIFI_SSID";
-char pass[] = "YOUR_WIFI_PASSWORD";
-
-void setup() {
-  Serial.begin(9600);
-  Blynk.begin(auth, ssid, pass);
-  pinMode(2, OUTPUT);  // Relay 1
-  pinMode(3, OUTPUT);  // Relay 2
-}
-
-void loop() {
-  Blynk.run();
-}
-```
+2. Open the Serial Monitor for debugging purposes.
+3. Monitor the API response
 
 ---
 
 ## Challenges Faced
-- Initial connection issues with the ESP8266 module.
-- Overheating of the relay module during testing.
+- The network connection may not be stable sometimes.
+- MFRC522 may not also be stable when the wire used is rusted.
 
 ### Solutions
-- Added a 10 µF capacitor to stabilize the power supply for the ESP8266.
-- Ensured proper insulation for high-current connections.
+- Added a external reset button for the micro controller to refresh-restart the connection.
+- Ensured proper and good condition of wire used.
 
 ---
 
 ## Future Improvements
-- Add voice control integration (e.g., Alexa or Google Assistant).
-- Implement energy monitoring for each appliance.
-- Include a security feature for user authentication.
-
----
-
-## Media
-### Images:
-![Project Setup](https://example.com/project_setup.png)
-
-### Video Demo:
-[Watch the demo on YouTube](https://youtube.com/example-demo)
-
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Add proper wiring to the device.
+- Instead of using MFRC522, use NFC reader instead and let the desktop application do the RFID card handling.
 
 ---
 
 ## Contact
 For questions or suggestions, feel free to contact me:
-- **Email:** your_email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** jolomeda@my.cspc.edu.ph
+- **GitHub:** [GitHub Profile](https://github.com/mamamakoko)
