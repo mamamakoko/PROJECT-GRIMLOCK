@@ -1,0 +1,55 @@
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.exe.config
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.exe
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.pdb
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.xml
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.vbproj.AssemblyReference.cache
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID_Arduino_User_Data_Interface.Form1.resources
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID_Arduino_User_Data_Interface.Resources.resources
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.vbproj.GenerateResource.cache
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.vbproj.CoreCompileInputs.cache
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.exe
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.xml
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.pdb
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\MySql.Data.dll
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Memory.dll
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Buffers.dll
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\MySql.Data.xml
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Ard.32E9B43C.Up2Date
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.vbproj.SuggestedBindingRedirects.cache
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.exe.config
+C:\Users\kokoy\Desktop\PROJECT-GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID_Arduino_User_Data_Interface.MainForm.resources
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.vbproj.AssemblyReference.cache
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.vbproj.SuggestedBindingRedirects.cache
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.exe.config
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID_Arduino_User_Data_Interface.Resources.resources
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.vbproj.GenerateResource.cache
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.vbproj.CoreCompileInputs.cache
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.exe
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.xml
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.pdb
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID_Arduino_User_Data_Interface.MainForm.resources
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.exe.config
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.exe
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.pdb
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.xml
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\MySql.Data.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Text.Json.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Memory.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Buffers.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.ValueTuple.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\MySql.Data.xml
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Ard.32E9B43C.Up2Date
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.exe.manifest
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\bin\Debug\RFID Arduino User Data Interface.application
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.exe.manifest
+C:\Users\kokoy\Desktop\GRIMLOCK\INTERFACE\RFID Arduino User Data Interface\RFID Arduino User Data Interface\obj\Debug\RFID Arduino User Data Interface.application
